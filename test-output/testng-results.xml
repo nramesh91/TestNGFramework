@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50" started-at="2018-04-27T10:06:15Z" finished-at="2018-04-27T10:06:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50" started-at="2018-04-27T10:06:15Z" finished-at="2018-04-27T10:06:15Z">
+      <class name="com.TestNGFramework.Test2">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.TestNGFramework.Test2@402f32ff]" name="test" duration-ms="2" started-at="2018-04-27T15:36:15Z" finished-at="2018-04-27T15:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.TestNGFramework.Test2 -->
+      <class name="com.TestNGFramework.Test3">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.TestNGFramework.Test3@573f2bb1]" name="test" duration-ms="1" started-at="2018-04-27T15:36:15Z" finished-at="2018-04-27T15:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.TestNGFramework.Test3 -->
+      <class name="com.TestNGFramework.Test1">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.TestNGFramework.Test1@3c756e4d]" name="test" duration-ms="15" started-at="2018-04-27T15:36:15Z" finished-at="2018-04-27T15:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.TestNGFramework.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

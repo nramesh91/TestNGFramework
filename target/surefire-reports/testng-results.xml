@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45" started-at="2018-04-30T08:37:03Z" finished-at="2018-04-30T08:37:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45" started-at="2018-04-30T08:37:03Z" finished-at="2018-04-30T08:37:04Z">
+      <class name="com.TestNGFramework.Test2">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.TestNGFramework.Test2@7cf10a6f]" name="test" duration-ms="0" started-at="2018-04-30T14:07:04Z" finished-at="2018-04-30T14:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.TestNGFramework.Test2 -->
+      <class name="com.TestNGFramework.Test3">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.TestNGFramework.Test3@7e0babb1]" name="test" duration-ms="0" started-at="2018-04-30T14:07:04Z" finished-at="2018-04-30T14:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.TestNGFramework.Test3 -->
+      <class name="com.TestNGFramework.Test1">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.TestNGFramework.Test1@45c8e616]" name="test" duration-ms="9" started-at="2018-04-30T14:07:04Z" finished-at="2018-04-30T14:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.TestNGFramework.Test1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
